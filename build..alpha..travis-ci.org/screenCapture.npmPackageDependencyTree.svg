@@ -128,24 +128,24 @@
 <tspan x="10" y="2010">│ │   ├── fs.realpath@1.0.0 </tspan>
 <tspan x="10" y="2026">│ │   ├─┬ inflight@1.0.6 </tspan>
 <tspan x="10" y="2042">│ │   │ └── wrappy@1.0.2 </tspan>
-<tspan x="10" y="2058">│ │   ├── inherits@2.0.3 </tspan>
-<tspan x="10" y="2074">│ │   ├─┬ minimatch@3.0.3 </tspan>
-<tspan x="10" y="2090">│ │   │ └─┬ brace-expansion@1.1.7 </tspan>
-<tspan x="10" y="2106">│ │   │   ├── balanced-match@0.4.2 </tspan>
-<tspan x="10" y="2122">│ │   │   └── concat-map@0.0.1 </tspan>
-<tspan x="10" y="2138">│ │   ├── once@1.4.0 </tspan>
-<tspan x="10" y="2154">│ │   └── path-is-absolute@1.0.1 </tspan>
-<tspan x="10" y="2170">│ ├─┬ strip-ansi@0.2.2 </tspan>
-<tspan x="10" y="2186">│ │ └── ansi-regex@0.1.0 </tspan>
-<tspan x="10" y="2202">│ └── timethat@0.0.3 </tspan>
-<tspan x="10" y="2218">└─┬ st@1.2.0 </tspan>
-<tspan x="10" y="2234">  ├─┬ async-cache@1.1.0 </tspan>
-<tspan x="10" y="2250">  │ └─┬ lru-cache@4.0.2 </tspan>
-<tspan x="10" y="2266">  │   ├── pseudomap@1.0.2 </tspan>
-<tspan x="10" y="2282">  │   └── yallist@2.1.2 </tspan>
-<tspan x="10" y="2298">  ├─┬ bl@1.1.2 </tspan>
-<tspan x="10" y="2314">  │ └─┬ readable-stream@2.0.6 </tspan>
-<tspan x="10" y="2330">  │   ├── core-util-is@1.0.2 </tspan>
+<tspan x="10" y="2058">│ │   ├─┬ minimatch@3.0.3 </tspan>
+<tspan x="10" y="2074">│ │   │ └─┬ brace-expansion@1.1.7 </tspan>
+<tspan x="10" y="2090">│ │   │   ├── balanced-match@0.4.2 </tspan>
+<tspan x="10" y="2106">│ │   │   └── concat-map@0.0.1 </tspan>
+<tspan x="10" y="2122">│ │   ├── once@1.4.0 </tspan>
+<tspan x="10" y="2138">│ │   └── path-is-absolute@1.0.1 </tspan>
+<tspan x="10" y="2154">│ ├─┬ strip-ansi@0.2.2 </tspan>
+<tspan x="10" y="2170">│ │ └── ansi-regex@0.1.0 </tspan>
+<tspan x="10" y="2186">│ └── timethat@0.0.3 </tspan>
+<tspan x="10" y="2202">└─┬ st@1.2.0 </tspan>
+<tspan x="10" y="2218">  ├─┬ async-cache@1.1.0 </tspan>
+<tspan x="10" y="2234">  │ └─┬ lru-cache@4.0.2 </tspan>
+<tspan x="10" y="2250">  │   ├── pseudomap@1.0.2 </tspan>
+<tspan x="10" y="2266">  │   └── yallist@2.1.2 </tspan>
+<tspan x="10" y="2282">  ├─┬ bl@1.1.2 </tspan>
+<tspan x="10" y="2298">  │ └─┬ readable-stream@2.0.6 </tspan>
+<tspan x="10" y="2314">  │   ├── core-util-is@1.0.2 </tspan>
+<tspan x="10" y="2330">  │   ├── inherits@2.0.3 </tspan>
 <tspan x="10" y="2346">  │   ├── isarray@1.0.0 </tspan>
 <tspan x="10" y="2362">  │   ├── process-nextick-args@1.0.7 </tspan>
 <tspan x="10" y="2378">  │   ├── string_decoder@0.10.31 </tspan>
